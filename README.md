@@ -1,7 +1,5 @@
 ## Olá! Eu sou Patric Oliveira 👋🏻
-
 Graduando em Engenharia da Computação Bacharel
-
 <div>
   <a href="https://github.com/PatricEng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatricEng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=4169E1&text_color=4169E1&icon_color=4169E1"/>
@@ -18,8 +16,4 @@ Graduando em Engenharia da Computação Bacharel
   <img align="center" alt="Patric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patric-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Patric-debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
- 
 </div>
-  
- 
-
