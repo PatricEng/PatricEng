@@ -3,7 +3,7 @@ Graduando em Engenharia da Computação Bacharel
 <div>
   <a href="https://github.com/PatricEng">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatricEng&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=4169E1&text_color=4169E1&icon_color=4169E1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatricEng&layout=compact&langs_count=7&theme=dark&title_color=4169E1&text_color=4169E1&icon_color=4169E1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patric-Oliveira&layout=compact&langs_count=7&theme=dark&title_color=4169E1&text_color=4169E1&icon_color=4169E1"/>
 </div>
 <div style="display: inline_block"><br>
   <code><img align="center" alt="Patric-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
